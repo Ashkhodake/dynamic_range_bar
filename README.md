@@ -22,3 +22,12 @@ The bar visualizes value ranges using colors and indicates the current input val
 ## State Management
 Flutter-native `ChangeNotifier` is used to manage UI state reactively as per assignment requirements.
 
+## Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/642e64af-848a-4cd6-93c3-0f68858507ff" width="250" />
+  <img src="https://github.com/user-attachments/assets/f5cb606d-5f94-49fd-bfd2-da52c1802dd0" width="250" />
+  <img src="https://github.com/user-attachments/assets/b6a8dd89-7a85-4ed1-b6ea-7d25d0e03d16" width="250" />
+</p>
+
+
